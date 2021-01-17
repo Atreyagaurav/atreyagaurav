@@ -13,7 +13,7 @@ I'm currently looking for continuing my study with Master's degree and PhD, and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyagaurav&layout=compact&theme=monokai&exclude_repo=Graph-Interpolator)]()
 
 ### Contact
-Use my email provided on the github profile. Or any of below:
+- Email: allmanpride@gmail.com
 - Reddit: thevoidzero
 - Discord: thevoidzero#4686
 
