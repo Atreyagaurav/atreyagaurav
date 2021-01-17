@@ -10,7 +10,7 @@ I'm currently looking for continuing my study with Master's degree and PhD, and 
 - Currently Learning: Linux utilities development with C
 - I want to collaborate on hydrology/hydraulics/GIS related programming projects
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyagaurav&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyagaurav&layout=compact&theme=monokai)]()
 
 ### Contact
 Use my email provided on the github profile. Or any of below:
