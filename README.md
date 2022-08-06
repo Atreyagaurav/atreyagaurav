@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there
 
-<!--
-**Atreyagaurav/atreyagaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Linux Enthusiast, so I write a lot of scripts or codes for personal linux tools, and I write some for emacs.
 
-Here are some ideas to get you started:
+My research area is Hydrology/Hydraulics. I'd be happy to collaborate on things related to those.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My hobbies include anime and light novels, so I sometimes contribute to fan translations by making scripts or proof reading. Or very rarely trying to translate using meager japanese that I know (and lots of jisho/deepl).
+
+You can reach me in discord, my username is: thevoidzero#４６８６ (type it out, don't copy it)
+
+My latest project: [LiTeX mode](https://github.com/Atreyagaurav/litex-mode) for emacs.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atreyagaurav&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyagaurav&layout=compact&theme=midnight-purple&langs_count=10&hide=TeX,HTML)
