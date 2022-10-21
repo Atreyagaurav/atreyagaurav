@@ -8,7 +8,7 @@ My hobbies include anime and light novels, so I sometimes contribute to fan tran
 
 You can reach me in discord, my username is: thevoidzero#４６８６ (type it out, don't copy it)
 
-My latest project: [LiTeX mode](https://github.com/Atreyagaurav/litex-mode) for emacs.
+My latest project: [units mode](https://github.com/Atreyagaurav/units-mode) for emacs.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atreyagaurav&theme=midnight-purple&show_icons=true)
