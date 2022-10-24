@@ -12,4 +12,4 @@ My latest project: [units mode](https://github.com/Atreyagaurav/units-mode) for 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atreyagaurav&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyagaurav&layout=compact&theme=midnight-purple&langs_count=10&hide=TeX,HTML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyagaurav&layout=compact&theme=midnight-purple&langs_count=4&hide=TeX,HTML,Visual%20Basic)
