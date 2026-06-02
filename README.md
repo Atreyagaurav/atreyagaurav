@@ -1,10 +1,8 @@
 ### Hi there
 
-Currently Looking for Roles: Rust/Python Developer, Research Software Developer, or any other roles you see fit based on my previous works.
-
 I'm a Linux Enthusiast, so I write a lot of scripts or codes for personal linux tools, and I write some for emacs.
 
-My research area is Hydrology/Hydraulics. I'd be happy to collaborate on things related to those.
+My area of expertise is Hydrology/Hydraulics. I'd be happy to collaborate on things related to those.
 
 Currently working on [NADI System](https://nadi-system.github.io/) that takes advantage of a river network information to do data analysis and visualization.
 
